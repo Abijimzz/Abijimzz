@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning SQL & JAVA
 - 🎓 I'm pursuing my bachelor's degree from UNAM in Mathematics Applied and Computing and another one in Data Science 
 - 🔝 Python, C, C++ 
-- 💞️ In love of love
+- 💞️ In love of my life
 - 📫 Follow me on twitter :D
