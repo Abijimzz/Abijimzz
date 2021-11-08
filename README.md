@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abijimzz
 - 👀 I’m interested in DBMS and Data Science
 - 🌱 I’m currently learning SQL & JAVA
-- 🎓 I'm pursuing my bachelor's degree from UNAM in Mathematics Applied and Computing and another one in Data Science 
+- 🎓 I'm pursuing my bachelor's degree from UNAM in Mathematics Applied and Computer Science and another one in Data Science 
 - 🔝 Python, C, C++ 
 - 💞️ In love of my life
 - 📫 Follow me on twitter :D
